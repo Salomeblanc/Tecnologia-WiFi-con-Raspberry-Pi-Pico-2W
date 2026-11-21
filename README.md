@@ -4,7 +4,6 @@ Comunicaciones Digitales · Ingeniería en Telecomunicaciones · Universidad Mil
 
 - **Docente:** Ing. José de Jesús Rugeles Uribe
 - **Autores:** Harol Felipe Riveros Sierra y Salome Bohórquez Blanco
-- **Lenguaje / entorno:** MicroPython en la Raspberry Pi Pico 2W, programada desde Thonny
 
 
 
